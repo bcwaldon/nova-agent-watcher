@@ -1,0 +1,64 @@
+{
+	"ImportPath": "_/Users/bcwaldon/src/nova-agent-watcher",
+	"GoVersion": "go1.2.2",
+	"Packages": [
+		"github.com/coreos/nova-agent-watcher"
+	],
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/go.exp/fsnotify",
+			"Comment": "null-75",
+			"Rev": "bd8df7009305d6ada223ea3c95b94c0f38bfa119"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/initialize",
+			"Comment": "v0.9.0-5-g7fc67c2",
+			"Rev": "7fc67c2acfdf0d833af7ab6201b4f6703a118c4b"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/network",
+			"Comment": "v0.9.0-5-g7fc67c2",
+			"Rev": "7fc67c2acfdf0d833af7ab6201b4f6703a118c4b"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/pkg",
+			"Comment": "v0.9.0-5-g7fc67c2",
+			"Rev": "7fc67c2acfdf0d833af7ab6201b4f6703a118c4b"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/system",
+			"Comment": "v0.9.0-5-g7fc67c2",
+			"Rev": "7fc67c2acfdf0d833af7ab6201b4f6703a118c4b"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/third_party/github.com/coreos/go-systemd/dbus",
+			"Comment": "v0.9.0-5-g7fc67c2",
+			"Rev": "7fc67c2acfdf0d833af7ab6201b4f6703a118c4b"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/third_party/github.com/dotcloud/docker/pkg/netlink",
+			"Comment": "v0.9.0-5-g7fc67c2",
+			"Rev": "7fc67c2acfdf0d833af7ab6201b4f6703a118c4b"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/third_party/github.com/guelfey/go.dbus",
+			"Comment": "v0.9.0-5-g7fc67c2",
+			"Rev": "7fc67c2acfdf0d833af7ab6201b4f6703a118c4b"
+		},
+		{
+			"ImportPath": "github.com/coreos/coreos-cloudinit/third_party/launchpad.net/goyaml",
+			"Comment": "v0.9.0-5-g7fc67c2",
+			"Rev": "7fc67c2acfdf0d833af7ab6201b4f6703a118c4b"
+		},
+		{
+			"ImportPath": "github.com/coreos/go-systemd/dbus",
+			"Comment": "v2-18-g219f3f1",
+			"Rev": "219f3f19eea4de69bd7261b3b1ef4848f652f790"
+		},
+		{
+			"ImportPath": "github.com/godbus/dbus",
+			"Comment": "0-4-gde1441e",
+			"Rev": "de1441ef2f0766061e403e6586d83747b7557aee"
+		}
+	]
+}
